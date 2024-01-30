@@ -1,7 +1,7 @@
 package org.example;
 
 import java.util.Scanner;
-//Консольный ввод/вывод в Java
+//Консольный ввод/вывод в  Java
 public class Main {
     public static void main(String[] args) {
 
